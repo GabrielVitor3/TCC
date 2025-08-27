@@ -1,19 +1,36 @@
-### **LISTA DE ARTIGOS**
+1.  **Gökalp, E., Çalışkanbaş, B., & Koçyiğit, A.** (2024). A reference model for software product line capability assessment. *Journal of Software: Evolution and Process*, 36(4), e2567.  
+    DOI: [10.1002/smr.2567](https://doi.org/10.1002/smr.2567)
 
-### **LISTA DE ARTIGOS**
+2.  **Jolak, R., Karlsson, S., & Dobslaw, F.** (2025). An empirical investigation of the impact of architectural smells on software maintainability. *The Journal of Systems & Software*, 225, 112382.  
+    DOI: [10.1016/j.jss.2025.112382](https://doi.org/10.1016/j.jss.2025.112382)
 
-1. **Carhuaz Malpartida, Katherin Felipa; Rodrigues, Kamila Rios da Hora.** "Building Serious Games to Exercise Computational Thinking: Initial Evaluation with Teachers of Children on the Autism Spectrum," in *Journal on Interactive Systems*, vol. 16, no. 1, 2025. doi: [10.5753/jis.2025.4492](https://doi.org/10.5753/jis.2025.4492).
-2. **Premoli, Breno de Oliveira; Silva, Victor Amaral; Cavichiolli, Adriane.** "Estudo Sobre o Comportamento de NPCs e Inimigos em Jogos Digitais Utilizando a Inteligência Artificial," (Trabalho acadêmico - FATEC/SP).
-3. **Genesio, Nikolas Oliver Sales; de Oliveira, Alessandreia Marta; Valle, Pedro Henrique Dias.** "Uma Abordagem Arquitetural para o Desenvolvimento de Jogos Educacionais Digitais na Educação em Computação," (Trabalho apresentado no WEI 2024).
-4. **Luz Melo, Rafael; da Silva Moreira, Vitor; Hoff do Amaral, Érico Marcelo; Domingues Júnior, Julio S.** "Victus Exergame: An Approach to Rehabilitation of Amputees Based in Serious Game," in *Journal on Interactive Systems*, vol. 16, no. 1, 2025. doi: [10.5753/jis.2025.4194](https://doi.org/10.5753/jis.2025.4194).
-5. **Osikowicz, Olek; McMinn, Phil; Shin, Donghwan.** "Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments," (Preprint / Artigo submetido).
-6. **Coppola, Riccardo; Fulcini, Tommaso; Manzi, Serenella; Strada, Francesco.** "How to Measure Game Testing: a Survey of Coverage Metrics," in *2024 ACM/IEEE 8th International Workshop on Games and Software Engineering (GAS '24)*, April 14, 2024, Lisbon, Portugal. doi: [10.1145/3643658.3643920](https://doi.org/10.1145/3643658.3643920).
-7. **Uludağlı, Muhtar Çağkan; Oğuz, Kaya.** "Non-player character decision-making in computer games," in *Artificial Intelligence Review*, vol. 56, pp. 14159–14191, 2023. doi: [10.1007/s10462-023-10491-7](https://doi.org/10.1007/s10462-023-10491-7).
-8. **Song, Li.** "LLM-Driven NPCs: Cross-Platform Dialogue System for Games and Social Platforms," (Preprint / Artigo submetido).
-9. **Pihlgren, Gustav Grund; Nilsson, Martin; Larsson, Mikael; Olsson, Oskar; Foughman, Tobias; Gustafsson, Victor.** "Realistic NPCs in Video Games Using Different AI Approaches," (Bachelor's Thesis in Computer Science and Engineering). Department of Computer Science and Engineering, Chalmers University of Technology, Gothenburg, Sweden, June 2016.
-10. **Ferreira, João Victor Pacheco; Kishimoto, André.** "Aplicação de Behavior Tree para IA de NPCs inimigos em jogos de survival horror," (Trabalho acadêmico - FCI/Universidade Presbiteriana Mackenzie). São Paulo, SP – Brasil.
-11. **Liu, Guisong; Deng, Wenjie; Xie, Xiurui; Huang, Li; Tang, Huajin.** "Human-Level Control Through Directly Trained Deep Spiking Q-Networks," in *IEEE Transactions on Cybernetics*, vol. 53, no. 11, pp. 7187-7199, 2023. doi: [10.1109/TCYB.2022.3198259](https://doi.org/10.1109/TCYB.2022.3198259).
-12. **Alhamed, Mohammed; Storer, Tim.** "Playing Planning Poker in Crowds: Human Computation of Software Effort Estimates," in *2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)*, Madrid, Spain, 2021, pp. 1-12. doi: [10.1109/ICSE43902.2021.00014](https://doi.org/10.1109/ICSE43902.2021.00014).
-13. **Arpteg, Anders; Brinne, Bjorn; Crnkovic-Friis, Luka; Bosch, Jan.** "Software Engineering Challenges of Deep Learning," in *2018 44th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)*, Prague, Czech Republic, 2018, pp. 50-59. doi: [10.1109/SEAA.2018.00018](https://doi.org/10.1109/SEAA.2018.00018).
-14. **Cruz, Carlos Alberto Barros; Madsen, Westhead; Adamatti, Diana F.** "Using Artificial Neural Networks in NPC Decision-Making Process," in *International Journal of Computer and Information Technology*, vol. 02, no. 06, pp. 1009-1013, November 2013. ISSN: 2279–0764.
-15. **Nguyen, Ngoc Duy; Nguyen, Thanh; Nahavandi, Saeid.** "System Design Perspective for Human-Level Agents Using Deep Reinforcement Learning: A Survey," in *IEEE Access*, vol. 5, pp. 27091-27102, 2017. doi: [10.1109/ACCESS.2017.2777837](https://doi.org/10.1109/ACCESS.2017.2777837).
+3.  **Abdeljalil, Y., Radermacher, A., Didonet del Fabro, M., & Mraidha, C.** (2025). On the use of LLMs for Design Pattern Detection in software models. *LLM4SE 2025 - First Large Language Models for Software Engineering Workshop*, Coblence, Germany.  
+    HAL: [cea-05121589](https://cea.hal.science/cea-05121589v1)
+
+4.  **Bozorgvar, N., Rasoolzadegan, A., & Harati, A.** (2023). Probabilistic detection of GoF design patterns. *The Journal of Supercomputing*, 79, 1654–1682.  
+    DOI: [10.1007/s11227-022-04718-7](https://doi.org/10.1007/s11227-022-04718-7)
+
+5.  **Su, R., Ahmad, N., Esposito, M., Janes, A., Taibi, D., & Lenarduzzi, V.** (2025). Emerging Trends in Software Architecture from the Practitioner’s Perspective: A Five-Year Review. *Preprint submitted to Elsevier*.
+
+6.  **Schindler, C., & Rausch, A.** (2025). LLM-Based Design Pattern Detection. *Preprint*. Clausthal University of Technology, Germany.
+
+7.  **Pan, Z., Song, X., Wang, Y., Cao, R., Li, B., Li, Y., & Liu, H.** (2024). Do Code LLMs Understand Design Patterns?. *Preprint*. Northwestern University, Zhejiang University, Alibaba Group.
+
+8.  **Pigazzini, I., Poppiani, D., & Fontana, F. A.** (2022). Two different facets of architectural smells criticality: an empirical study. *CEUR Workshop Proceedings*.
+
+9.  **Thatikonda, V.K.** (2023). Assessing the Impact of Microservices Architecture on Software Maintainability and Scalability. *European Journal of Theoretical and Applied Sciences*, 1(4), 782–787.  
+    DOI: [10.59324/eitas.2023.1(4).71](https://doi.org/10.59324/eitas.2023.1(4).71)
+
+10. **Hussain, K., Collins, C., & Bradbury, J. S.** PIE: A Tool for Visualizing the Life Cycle of Design Patterns in Open Source Software Projects. *Preprint*. Ontario Tech University, Canada.
+
+11. **Koks, G., & Haerens, G.** (2024). Towards Evolutionary Software Design: Bridging Clean Architecture and Normalized Systems. *International Journal on Advances in Software*, 17(3 & 4).
+
+12. **Su, R., & Li, X.** (2024). Modular Monolith: Is This the Trend in Software Architecture?. In *2024 IEEE/ACM International Workshop New Trends in Software Architecture (SATrends)*, Lisbon, Portugal.  
+    DOI: [10.1145/3643657.3643911](https://doi.org/10.1145/3643657.3643911)
+
+13. **Su, R., & Li, X.** (2024). Modular Monolith: Is This the Trend in Software Architecture?. M3S, University of Oulu, Finland.
+
+14. **Midolo, A., & Di Penta, M.** Automated Refactoring of Non-Idiomatic Python Code: A Differentiated Replication with LLMs. *Department of Engineering, University of Sannio, Benevento, Italy*.
+
+15. **Pandey, S. K., Chand, S., Horkoff, J., Staron, M., Ochodek, M., & Durisic, D.** (2025). Design pattern recognition: a study of large language models. *Empirical Software Engineering*, 30, 69.  
+    DOI: [10.1007/s10664-025-10625-1](https://doi.org/10.1007/s10664-025-10625-1)
